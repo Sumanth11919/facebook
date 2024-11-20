@@ -1,0 +1,21 @@
+button{
+    background-color: blue;
+    color: black;
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+}
+.suma{
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+body{
+    background-color: #f2f4f7;
+}
+input{
+    width: 300px;
+    height: 40px;
+}
